@@ -1,4 +1,17 @@
-## Hi there 👋
+# Autoffic
+## Auttofic:
+Auttofic is the semester project done by students of Kathamandu University second year first semester. Talking about Autoffic it is the project that visualizes the real life traffic into the simulated enviroment with dynamic traffic light (Traffic light controlled by reinforcement learning). It uses computer vision with reinforcement learning to simulate the environment in Unity.
+
+## Team Members:
+Nirjal Bhurtel (@erwinschrodinger1)
+Bishal Neupane
+Nigam Niraula
+Jenisha Khulal
+
+## Contribution:
+All the codes used in the project can be found public in this repository. If you want to use it for learning purposes and if you want to contribute. We are more than happy to facilitate you.
+
+## Thank You
 
 <!--
 
