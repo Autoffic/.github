@@ -11,6 +11,9 @@ Jenisha Khulal<br/>
 ## Contribution:
 All the codes used in the project can be found public in this repository. If you want to use it for learning purposes and if you want to contribute. We are more than happy to facilitate you.
 
+## Documentations:
+- [Proposal](https://docs.google.com/document/d/1T77GVFWIPPQGyyvn9qjyZW--kzWMFeNuAIGwEL7Sa8s/edit?usp=sharing)<br/>
+- [Report](https://docs.google.com/document/d/10AVlvZCAcvD1BEliEDRL7sgQPurP53wBORVw2iY8Ucw/edit?usp=sharing)<br/>
 ## Thank You
 
 <!--
